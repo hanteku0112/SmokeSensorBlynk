@@ -1,6 +1,6 @@
 # SmokeSensorBlynk
 IoT Gas/Smoke Leak Detector using ESP32, MQ-2 sensor and Blynk.
-This my video for the project: https://drive.google.com/drive/u/0/folders/1r_ufwFTYMfIkPhLvbecYCKfGfkZTPCLg
+This my video for the project: https://drive.google.com/drive/u/0/folders/1r_ufwFTYMfIkPhLvbecYCKfGfkZTPCLg.
 This project can still have some improvements, such as integrating a buzzer to warn when the gas value is greater than the threshold, or a control relay or a mini pump to automatically pump water when the temperature and gas values are significant. (This will require one more heat sensor.) However, due to a lack of hardware like a transistor, an external 5V supply, and a broken breadboard, this is the best shot I can give to this project.
 ## Future Improvements
 This project can be further enhanced with the following features:
